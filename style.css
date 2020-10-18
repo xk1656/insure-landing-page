@@ -456,12 +456,14 @@ header .nav-mobile {
     position: absolute;
     top: -10rem;
     left: 0;
+    display: block;
   }
 
   .banner-left .bg-mobile-right {
     position: absolute;
     bottom: -15rem;
     right: 0;
+    display: block;
   }
 
   .banner-right {
